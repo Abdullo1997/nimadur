@@ -1,0 +1,52 @@
+[
+    {
+        "id": "uz-ta",
+        "name": "Toshkent",
+        "phone": "998 (71) 202 - 00 - 22",
+        "hotline": "998 (78) 150 - 23 - 00",
+        "fax": "998 (71) 246 - 17 - 63",
+        "email": "uzst@standart.uz",
+        "address": " 100049, Tashkent Metro: Beruniy st. Buses: № 14,10,88,131 'Standard' stopFarobiy k, 333 'A'",
+        "link": "https://standart.uz/countries/organs/tashkent"
+    },
+    {
+        "id": "uz-sa",
+        "name": "Samarqand",
+        "phone": "998 (71) 202 - 00 - 22",
+        "hotline": "998 (78) 150 - 23 - 00",
+        "fax": "998 (71) 246 - 17 - 63",
+        "email": "uzst@standart.uz",
+        "address": " 100049, Tashkent Metro: Beruniy st. Buses: № 14,10,88,131 'Standard' stopFarobiy k, 333 'A'",
+        "link": "https://standart.uz/countries/organs/samarqand"
+    },
+    {
+        "id": "uz-si",
+        "name": "Sirdaryo",
+        "phone": "998 (71) 202 - 00 - 22",
+        "hotline": "998 (78) 150 - 23 - 00",
+        "fax": "998 (71) 246 - 17 - 63",
+        "email": "uzst@standart.uz",
+        "address": " 100049, Tashkent Metro: Beruniy st. Buses: № 14,10,88,131 'Standard' stopFarobiy k, 333 'A'",
+        "link": "https://standart.uz/countries/organs/sirdaryo"
+    },
+    {
+        "id": "uz-ji",
+        "name": "Jizzax",
+        "phone": "998 (71) 202 - 00 - 22",
+        "hotline": "998 (78) 150 - 23 - 00",
+        "fax": "998 (71) 246 - 17 - 63",
+        "email": "uzst@standart.uz",
+        "address": " 100049, Tashkent Metro: Beruniy st. Buses: № 14,10,88,131 'Standard' stopFarobiy k, 333 'A'",
+        "link": "https://standart.uz/countries/organs/jizzax"
+    },
+    {
+        "id": "uz-bu",
+        "name": "Buxoro",
+        "phone": "998 (71) 202 - 00 - 22",
+        "hotline": "998 (78) 150 - 23 - 00",
+        "fax": "998 (71) 246 - 17 - 63",
+        "email": "uzst@standart.uz",
+        "address": " 100049, Tashkent Metro: Beruniy st. Buses: № 14,10,88,131 'Standard' stopFarobiy k, 333 'A'",
+        "link": "https://standart.uz/countries/organs/buxoro"
+    }
+]
